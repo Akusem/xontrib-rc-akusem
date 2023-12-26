@@ -8,7 +8,7 @@ except (IOError, OSError):
     long_description = ''
 
 setuptools.setup(
-    name='xontrib-rc-awesome',
+    name='xontrib-rc-akusem',
     version='0.14.0.1',
     license='MIT',
     author='anki-code',
